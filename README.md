@@ -4,7 +4,7 @@ Bitkopa offers crypto backed loans for local fiat. Users are able to request and
 or currency of choice. Bitkopa runs on the Polygon Blockchain and thus supports MATIC as a collateral asset. With bitkopa, 
 you can borrow KES against your MATIC without worrying about the USD exchange rate volatility.
 
-##Bitkopa Architecture
+## Bitkopa Architecture
 ![alt text](https://github.com/freelancer254/bitkopa/blob/main/images/BitkopaArchitecture.png?raw=true)
 Each supported collateral on Bitkopa is deployed on its own contract, illustrated as Bitkopa Loan Smart Contract. There is a verification smart contract
 used to verify the verification status of the accounts interacting with the platform. The frontend allows interaction with the api and smart contracts.
@@ -14,24 +14,21 @@ to the platform, when the loan to value (LTV) reaches the liquidation threshold,
 This is facilitated by chainlink automation services.
 
 ## Demo
-#Demostrating How to Request A Loan
+# Demostrating How to Request A Loan
 ![alt text](https://github.com/freelancer254/bitkopa/blob/main/images/request.gif?raw=true)
 
-#Demostrating How to Repay A Loan
+# Demostrating How to Repay A Loan
 ![alt text](https://github.com/freelancer254/bitkopa/blob/main/images/repay.gif?raw=true)
-## To get started, head to:
+## Get Started Here
 ```
 https://bitkopa.com
 ```
-* [https://bitkopa.com](https://bitkopa.com\
+* [https://bitkopa.com](https://bitkopa.com)\
 You will need testnet MATIC or LINK\
-You will then require to verify your account, verification is instant\
+You will then be required to verify your account, verification is instant\
 You can also import the demo user with some testnet tokens\
 private key: f2c146e00410c958418bcfce240ffe13fba9d30de7b3b77cfb32a6d5d4a79689
 
-
-## Request RandomWords
-To make the post request, you must first be authenticated.
 
 ## Built With
 
