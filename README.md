@@ -25,6 +25,10 @@ https://bitkopa.com
 ```
 * [https://bitkopa.com](https://bitkopa.com)\
 You will need testnet MATIC or LINK\
+Get test net tokens here\
+* [Polygon Faucet](https://faucet.polygon.technology/)
+* [Alchemy Mumbai Faucet](https://mumbaifaucet.com/) 
+* [chainlink Mumbai Faucet](https://faucets.chain.link/mumbai) 
 You will then be required to verify your account, verification is instant\
 You can also import the demo user with some testnet tokens\
 private key: f2c146e00410c958418bcfce240ffe13fba9d30de7b3b77cfb32a6d5d4a79689
@@ -33,6 +37,7 @@ private key: f2c146e00410c958418bcfce240ffe13fba9d30de7b3b77cfb32a6d5d4a79689
 ## Built With
 
 * [Polygon Network](https://polygon.technology/) - Smart Contract Deployment
+* [Alchemy](https://alchemy.com/) - RPC Provider
 * [chainlink services](https://chain.link/) - Automation
 * [Solidity](https://docs.soliditylang.org/en/v0.8.7/) - The smart contract language
 * [web3py](https://web3py.readthedocs.io/en/stable/) - For smart contract interaction
